@@ -6,7 +6,7 @@
 
 ## Methods
 
-* [Defining Methods](methods/methods.md)
+* [Communication Protocols](methods/methods.md)
 
 * [Human](methods/human.md)
 
