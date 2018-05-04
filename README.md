@@ -4,7 +4,13 @@ This is the documentation for the Josh Cox API User Experience
 
 ##### TLDR
 
-First create an issue in jira, then slack me that issue.
+In short the primary method for getting Josh to collaborate/discuss/work
+on something Transmute related:
+
+1. create an issue in jira
+1. slack me that issue
+
+For everything else read on...
 
 ## Table of Contents
 
