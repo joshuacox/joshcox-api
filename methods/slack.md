@@ -1,6 +1,7 @@
 # Slack Methods
 
 These are the Slack methods of accessing Josh Cox.
+Slack is the go to method for quick communication.
 
 {% method %}
 ## Slack @josh
