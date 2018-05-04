@@ -14,14 +14,12 @@ instead.
 
 My first method exposes how to say good mornig to Josh in various languages.
 
-{% method %}
 {% sample lang="js" %}
 Here is how to greet Josh in the morning in javascript:
 
 ```js
 console.log('In the morning!');
 ```
-{% endmethod %}
 
 {% sample lang="go" %}
 And in go:
@@ -29,33 +27,28 @@ And in go:
 ```go
 fmt.Println("In the morning!")
 ```
-{% endmethod %}
 
-{% method %}
 {% sample lang="bash" %}
 And in bash:
 
 ```bash
 echo 'In the morning!'
 ```
-{% endmethod %}
 
-{% method %}
 {% sample lang="english" %}
 And in english:
 
 ```english
 say 'In the morning!'
 ```
-{% endmethod %}
 
-{% method %}
 {% sample lang="hashtag" %}
 And with a shorthand hashtag:
 
 ```hashtag
 #ITM
 ```
-{% endmethod %}
 
 Whatever language you are using, the result will be the same.
+
+{% endmethod %}

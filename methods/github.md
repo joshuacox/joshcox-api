@@ -15,9 +15,7 @@ My first method exposes how to create a github issue.
 {% sample lang="js" %}
 Here is how to create an isue for  Josh using `hub`:
 Github has a guide on this [topic](https://help.github.com/articles/creating-an-issue/).
-{% endmethod %}
 
-{% method %}
 ### Github/hub CLI issue creation
 
 [Github/hub](https://github.com/github/hub) is a CLI tool that can aid in this.  e.g.
