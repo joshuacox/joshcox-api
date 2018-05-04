@@ -10,10 +10,10 @@ Offline and asynchronous in that I will get to it later.
 My first method exposes how to say
 
 {% method %}
-{% sample lang="mail" %}
 Here is how to greet Josh on E-mail:
 
 
+{% sample lang="mail" %}
 ```mail
 Hello Josh,
   In the morning!  I would like to asynchronously discuss the
@@ -22,5 +22,4 @@ advent of the advance of the advantages of advantageous advantagiation.
 Sincerely,
 bob
 ```
-
 {% endmethod %}

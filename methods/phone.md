@@ -12,9 +12,9 @@ needs to be put out immediately.
 
 ### Call josh
 
-{% sample lang="phone" %}
 My first method exposes how to call Josh and say "In the morning!"
 
+{% sample lang="phone" %}
 1. dial my number
 1. wait for the ringing to stop and me to pick up the phone and say 'Moshi Moshi'
 1. Announce your #ITM, "In the morning!"

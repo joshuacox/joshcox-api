@@ -10,22 +10,21 @@ to be worked on by the transmute team.
 My first method exposes how to create a github issue.
 
 {% method %}
-### Github issues creation
 
 {% sample lang="manual" %}
-Here is how to create an isue for  Josh using `hub`:
+### Github manual issue creation
+
 Github has a guide on this [topic](https://help.github.com/articles/creating-an-issue/).
 
+{% sample lang="hub" %}
 ### Github/hub CLI issue creation
-
 [Github/hub](https://github.com/github/hub) is a CLI tool that can aid in this.  e.g.
 
-{% sample lang="hub" %}
 Here is how to create an isue for  Josh using `hub`:
 ```
 hub issue create -a joshuacox -m 'my issue'
 ```
-
 ^ will create an issue in the repo related to your current working
 directory and assign it to me.
+
 {% endmethod %}
