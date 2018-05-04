@@ -2,10 +2,12 @@
 
 These are the Jira methods of accessing Josh Cox.
 
-{% method %}
 ## Jira
 
 Jira is for project management and issues related to Transmute.
+
+{% method %}
+### Issue creation
 
 My first method exposes how to make an issue in Jira for Josh Cox
 
