@@ -12,6 +12,7 @@ Here is how to greet Josh on E-mail:
 
 
 {% sample lang="mail" %}
+### Example email
 ```mail
 Hello Josh,
   In the morning!  I would like to asynchronously discuss the

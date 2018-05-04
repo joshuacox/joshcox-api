@@ -2,6 +2,10 @@
 
 This is the documentation for the Josh Cox API User Experience
 
+##### TLDR
+
+First create an issue in jira, then slack me that issue.
+
 ## Table of Contents
 
 * [Communication Protocols](methods/methods.md)
