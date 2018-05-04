@@ -6,7 +6,7 @@ These are the human interactive methods of accessing Josh Cox.
 ## Human Interaction
 
 Human Interaction is for pleasantries, don't get me wrong I love
-hearing about whatever cool thing you saw discovered. But if what we are
+hearing about whatever cool thing you just discovered. But if what we are
 going to be talking about pertains to work to be done it might be more
 appropriate to choose one of the methods below.  Also, if I am wearing
 headphones it is greatly preferred that you try one of the other methods
