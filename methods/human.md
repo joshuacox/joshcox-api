@@ -49,6 +49,6 @@ And with a shorthand hashtag:
 #ITM
 ```
 
-Whatever language you are using, the result will be the same.
-
 {% endmethod %}
+
+Whatever language you are using, the result will be the same.
