@@ -9,6 +9,7 @@ If you are calling me unscheduled it means something is on fire and
 needs to be put out immediately.
 
 {% method %}
+{% sample lang="phone" %}
 
 ### Call josh
 
