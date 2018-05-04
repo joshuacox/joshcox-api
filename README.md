@@ -10,14 +10,14 @@ This is the documentation for the Josh Cox API User Experience
 
 * [Human](methods/human.md)
 
-* [Slack.md](methods/slack.md)
+* [Slack](methods/slack.md)
 
-* [Jira.md](methods/jira.md)
+* [Jira](methods/jira.md)
 
-* [Github.md](methods/github.md)
+* [Github](methods/github.md)
 
-* [E-mail.md](methods/email.md)
+* [E-mail](methods/email.md)
 
-* [SMS.md](methods/sms.md)
+* [SMS](methods/sms.md)
 
-* [Phone.md](methods/phone.md)
+* [Phone](methods/phone.md)

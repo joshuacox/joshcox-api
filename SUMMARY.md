@@ -10,14 +10,14 @@
 
 * [Human](methods/human.md)
 
-* [E-mail.md](methods/email.md)
+* [E-mail](methods/email.md)
 
-* [Github.md](methods/github.md)
+* [Github](methods/github.md)
 
-* [Jira.md](methods/jira.md)
+* [Jira](methods/jira.md)
 
-* [Phone.md](methods/phone.md)
+* [Phone](methods/phone.md)
 
-* [Slack.md](methods/slack.md)
+* [Slack](methods/slack.md)
 
-* [SMS.md](methods/sms.md)
+* [SMS](methods/sms.md)
