@@ -50,5 +50,4 @@ And with a shorthand hashtag:
 ```
 {% endmethod %}
 
-{% common %}
 Whatever language you are using, the result will be the same.
