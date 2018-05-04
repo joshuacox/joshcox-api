@@ -2,18 +2,16 @@
 
 These are the Github issues methods of accessing Josh Cox.
 
-## Github issues
-
 Github issues are for publicly identifying bugs and/or issues that need
 to be worked on by the transmute team.
 
-My first method exposes how to create a github issue.
-
 {% method %}
+## Github issues
+
+My first method exposes how to create a github issue.
 
 {% sample lang="manual" %}
 ### Github manual issue creation
-
 Github has a guide on this [topic](https://help.github.com/articles/creating-an-issue/).
 
 {% sample lang="hub" %}
