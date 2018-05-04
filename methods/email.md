@@ -2,14 +2,12 @@
 
 These are the E-mail methods of accessing Josh Cox.
 
-## E-mail
-
 E-mail is the go to method for asynchronous quick offline communication.
 Offline and asynchronous in that I will get to it later.
 
-My first method exposes how to say
-
 {% method %}
+## E-mail
+
 Here is how to greet Josh on E-mail:
 
 
