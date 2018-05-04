@@ -1,4 +1,4 @@
-# Defining Methods
+# Communication Protocols
 
 These are the various methods of accessing Josh Cox.
 
@@ -6,7 +6,7 @@ These are the various methods of accessing Josh Cox.
 ## [Human Interaction](./human.md)
 
 Human Interaction is for pleasantries, don't get me wrong I love
-hearing about whatever cool thing you discovered recently. If what we are
+hearing about whatever cool thing you discovered recently. However, if what we are
 going to be talking about pertains to work to be done it might be more
 appropriate to create an issue using the [jira](./jira.md) method.  Also, if I am wearing
 headphones it is greatly preferred that you try one of the other methods

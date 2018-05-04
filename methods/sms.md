@@ -11,6 +11,7 @@ and you have a semi-urgent question about something not on fire.
 My first method exposes how to say 'In the morning!' to Josh over SMS.
 
 {% sample lang="sms" %}
+#### Example SMS/Text
 Here is how to greet Josh on SMS/Text
 ```sms
 In the morning!
