@@ -1,3 +1,3 @@
-# My Awesome API
+# Josh Cox API
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is the documentation for the Josh Cox API User Experience

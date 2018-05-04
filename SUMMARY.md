@@ -2,8 +2,8 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Intro to the Josh Cox API](README.md)
 
 ## Methods
 
-* [Defining Methods](methods.md)
+* [Defining Methods](methods/methods.md)
