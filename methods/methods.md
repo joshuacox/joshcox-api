@@ -27,7 +27,6 @@ Jira before airing our laundry publicly.  Other than that github issues
 should be directly applicable to a bug of some sort. Assign it to me and
 you might ping me in slack with a link to the issue upon creation.
 
-{% method %}
 ## [Email](./email.md)
 
 E-mail is the go to method for asynchronous quick offline communication.
