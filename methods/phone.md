@@ -9,15 +9,13 @@ If you are calling me unscheduled it means something is on fire and
 needs to be put out immediately.
 
 {% method %}
-{% sample lang="phone" %}
 
 ### Call josh
 
+{% sample lang="phone" %}
 My first method exposes how to call Josh and say "In the morning!"
 
 1. dial my number
-1. wait for the ringing to stop and me to pick up the phone and say
-   'Moshi Moshi'
+1. wait for the ringing to stop and me to pick up the phone and say 'Moshi Moshi'
 1. Announce your #ITM, "In the morning!"
-
 {% endmethod %}

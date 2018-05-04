@@ -12,7 +12,7 @@ My first method exposes how to create a github issue.
 {% method %}
 ### Github issues creation
 
-{% sample lang="js" %}
+{% sample lang="manual" %}
 Here is how to create an isue for  Josh using `hub`:
 Github has a guide on this [topic](https://help.github.com/articles/creating-an-issue/).
 
@@ -20,7 +20,7 @@ Github has a guide on this [topic](https://help.github.com/articles/creating-an-
 
 [Github/hub](https://github.com/github/hub) is a CLI tool that can aid in this.  e.g.
 
-{% sample lang="js" %}
+{% sample lang="hub" %}
 Here is how to create an isue for  Josh using `hub`:
 ```
 hub issue create -a joshuacox -m 'my issue'
