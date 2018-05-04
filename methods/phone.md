@@ -2,12 +2,15 @@
 
 These are the Phone methods of accessing Josh Cox.
 
-{% method %}
 ## Phone
 
 Phone calls should be used sparingly and normally scheduled in advance.
 If you are calling me unscheduled it means something is on fire and
 needs to be put out immediately.
+
+{% method %}
+
+### Call josh
 
 My first method exposes how to call Josh and say "In the morning!"
 
